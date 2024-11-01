@@ -1,37 +1,49 @@
-# 👋 Olá, seja bem-vindo ao meu perfil!
+# 👋 Olá! Bem-vindo(a) ao meu espaço no GitHub!
 
-Meu nome é Erick, um entusiasta de tecnologia e estudante de Sistemas para Internet.
+Sou **Erick**, estudante de Sistemas para Internet e entusiasta de tecnologia. Aqui você encontrará um pouco das minhas aventuras no mundo do desenvolvimento e manipulação de dados.
 
-## Sobre mim
-- 📚 Aluno da Universidade Tecnológica Federal do Paraná (UTFPR), cursando Sistemas para Internet.
-- 🌱 Explorando constantemente o mundo da tecnologia e sempre em busca de novos desafios.
-- 💻 Apaixonado por criar soluções inovadoras e contribuir com a comunidade.
-- 🌍 Interessado em projetos open source e colaborações com outros desenvolvedores.
+## 👤 Sobre Mim
+- 🎓 **Estudante** de Sistemas para Internet na UTFPR, focado em criar soluções digitais criativas.
+- 🌟 Explorador de **novas tecnologias** e apaixonado por enfrentar desafios.
+- 💡 Apaixonado por transformar **dados em insights** e contribuir para a comunidade.
+- 🌍 Fã de projetos open source e sempre aberto a colaborações.
 
-## Linguagens e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+## ⚙️ Tecnologias e Ferramentas
 
-## Estatísticas do GitHub
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickserpe&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickserpe&layout=compact&theme=radical)
+### Desenvolvimento Web
+<div style="display: flex; gap: 5px;">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
 
-\\## Projetos Notáveis
-- [**Trampa Aqui**](#) - Inspirado em Thor Vagas, desenvolvido com Angular.
-- [**G-Prod**](#) - Projeto envolvendo DevOps e integração entre VMs.
-- [**Growth Suplementos**](#) - Inspirado no site Growth Suplementos, utilizando Bootstrap.
+### Manipulação e Análise de Dados
+<div style="display: flex; gap: 5px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
 
-*Obs: Substitua os links e descrições pelos seus projetos reais!*
+## 📈 Estatísticas do GitHub
 
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/erickserpe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/erickserpe)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erickserpe&show_icons=true&theme=gruvbox&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=282828" alt="Erick's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickserpe&layout=compact&theme=gruvbox&title_color=FFD700&text_color=ffffff&bg_color=282828" alt="Top Langs" height="160px" />
+</div>
+
+## 🌐 Vamos nos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickserpe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickserpe)
 
 ---
 
-🌟 Sinta-se à vontade para me contatar! Estou sempre aberto a novas conexões e colaborações.
+### ✨ "Estou sempre aberto a novas ideias, projetos e conexões com pessoas que compartilham a paixão por tecnologia e inovação!"
+
+---
+
