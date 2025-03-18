@@ -3,7 +3,7 @@
 Sou **Erick**, estudante de Sistemas para Internet e entusiasta de tecnologia. Aqui você encontrará um pouco das minhas aventuras no mundo do desenvolvimento e manipulação de dados.
 
 ## 👤 Sobre Mim
-- 🎓 **Estudante** de Sistemas para Internet na UTFPR, focado em criar soluções digitais criativas.
+- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas- IFPR, focado em criar soluções digitais criativas.
 - 🌟 Explorador de **novas tecnologias** e apaixonado por enfrentar desafios.
 - 💡 Apaixonado por transformar **dados em insights** e contribuir para a comunidade.
 - 🌍 Fã de projetos open source e sempre aberto a colaborações.
