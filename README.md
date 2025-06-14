@@ -1,16 +1,16 @@
 # 👋 Olá! Bem-vindo(a) ao meu espaço no GitHub!
 
-Sou **Erick**, estudante de Sistemas para Internet e entusiasta de tecnologia. Aqui você encontrará um pouco das minhas aventuras no mundo do desenvolvimento e manipulação de dados.
+Sou **Erick**, estudante de Análise e Desenvolvimento de Sistemas no IFPR e entusiasta de tecnologia. Aqui você encontrará um pouco das minhas aventuras no mundo do desenvolvimento web e programação.
 
 ## 👤 Sobre Mim
-- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas- IFPR, focado em criar soluções digitais criativas.
-- 🌟 Explorador de **novas tecnologias** e apaixonado por enfrentar desafios.
-- 💡 Apaixonado por transformar **dados em insights** e contribuir para a comunidade.
+- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no IFPR, focado em criar soluções web robustas.
+- 🌟 Explorador de **novas tecnologias** e apaixonado por enfrentar desafios de programação.
+- 💡 Amante do desenvolvimento backend e frontend, buscando sempre aprender mais.
 - 🌍 Fã de projetos open source e sempre aberto a colaborações.
 
 ## ⚙️ Tecnologias e Ferramentas
 
-### Desenvolvimento Web
+### Frontend
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -18,15 +18,15 @@ Sou **Erick**, estudante de Sistemas para Internet e entusiasta de tecnologia. A
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### Manipulação e Análise de Dados
+### Backend & Banco de Dados
 <div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </div>
 
 ## 📈 Estatísticas do GitHub
@@ -43,7 +43,6 @@ Sou **Erick**, estudante de Sistemas para Internet e entusiasta de tecnologia. A
 
 ---
 
-### ✨ "Estou sempre aberto a novas ideias, projetos e conexões com pessoas que compartilham a paixão por tecnologia e inovação!"
+### ✨ "Estou sempre aberto a novas ideias, projetos e conexões com pessoas que compartilham a paixão por desenvolvimento web e tecnologia!"
 
 ---
-
